@@ -100,6 +100,17 @@ Several plots were used to identify key trends:
 
 These visualizations provided insight into customer preferences and purchasing patterns.
 
+![image](https://github.com/user-attachments/assets/b5d8c999-aee5-4565-8b84-6c7b5edf0819)
+
+![image](https://github.com/user-attachments/assets/9b9b37b2-d1ef-4042-9aa4-14131a099722)
+
+![image](https://github.com/user-attachments/assets/2e0e86ca-fa6e-43e7-a925-a5f6629a67be)
+
+![image](https://github.com/user-attachments/assets/215a607b-6a01-4c0d-bebb-5701e5f15623)
+
+![image](https://github.com/user-attachments/assets/92e5830d-c3d3-4a94-90a9-52f912f38061)
+
+
 ---
 
 ## 7. Conclusion
